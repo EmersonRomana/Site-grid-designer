@@ -41,11 +41,10 @@ Este projeto foi construído primariamente com:
 Aqui você poderá visualizar a representação visual da estrutura de grid utilizada neste projeto. Esta imagem ajuda a entender a organização das linhas e colunas no layout.
 
 ![Imagem da Configuração da Grade](./img/image.png)
-![Imagem da Configuração da Grade]
-![Imagem da Configuração da Grade]
+![Imagem da Configuração da Grade](./img/configuração.png)
+![Imagem da Configuração da Grade](./img/html-css.png)
 
-_(Aguardando a inclusão da imagem da configuração da grade aqui)_
-
+---
 ## 🧩 Gerador de Código para Grid
 
 Este projeto visa aprimorar a criação de layouts com CSS Grid. Para auxiliar no processo, estamos explorando a possibilidade de integrar ou recomendar um **gerador de código CSS Grid**.
